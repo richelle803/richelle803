@@ -22,4 +22,4 @@ I am an aspiring data professional <img src="https://media.giphy.com/media/WUlpl
 
 - fun fact! i really like eating watermelon and wasabi 🍉🍉
 
-- :mailbox: how to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/richelle803)
+- :mailbox: how to reach me: [![Linkedin Badge](https://img.shields.io/badge/richelle803style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/richelle803)
