@@ -2,8 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhqcDNneTRneTQ1OHQ4b2dpMDRnOXhmbjQ4Zzd3anNhd2RjMjhiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif" width="100"/>
 </div>
 
-## Hi there 👋 
-My name is Richelle 
+## Hi there 👋 I'm Richelle 
 ---
 
 ### :woman_technologist: About Me :
